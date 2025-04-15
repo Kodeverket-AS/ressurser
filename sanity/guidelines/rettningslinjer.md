@@ -1,0 +1,1 @@
+# Rettningslinjer for bruk av React
